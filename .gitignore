@@ -3,4 +3,6 @@
 *.xlsx
 *.doc
 *.bak
+*.doc
+*.docx
 *.~$lock
