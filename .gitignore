@@ -2,7 +2,12 @@
 
 *.xlsx
 *.doc
+*.docx
 *.bak
+<<<<<<< HEAD
 *.doc
 *.docx
 *.~$lock
+=======
+*.~$lock
+>>>>>>> 7c8867c7d6ac1dfd582a357af1029ecc7b143959
