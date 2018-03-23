@@ -1,0 +1,6 @@
+#mindfile
+
+*.xlsx
+*.doc
+*.bak
+*.~$lock
