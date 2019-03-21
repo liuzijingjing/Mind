@@ -1,10 +1,6 @@
 #mindfile
 
 *.xlsx
-*.doc
-*.docx
 *.bak
-*.doc
-*.docx
 *.~$lock
 
